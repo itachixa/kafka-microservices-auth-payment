@@ -17,8 +17,7 @@ ainsi j'ai fait la liason de ces 2 microservice en utilisant les brockeur et les
 -composer<br/>
 -npm<br/>
 
-- **Pres requis**:<br/>
-commande pour lancer le projet:<br/>
+- **commande pour lancer le projet**:<br/>
 ```
 docker compose up -d
 cd microservice-auth
