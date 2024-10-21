@@ -26,11 +26,4 @@ node index.js
 cd ..
 cd microservice-payement
 node index.js
-
-
-
-
-
-
-
-
+```
